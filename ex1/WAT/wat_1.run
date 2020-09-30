@@ -1,8 +1,6 @@
 #!/bin/sh
 
 # first we set some variables
-NAME=`whoami`
-PROGRAM=/cluster/work/igc/CSBMS/GROMOS/gromosXX/bin/md
 SIMULDIR=${HOME}/ex1/WAT
 
 # create temporary directory
