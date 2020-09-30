@@ -1,5 +1,5 @@
-'Classical Simulation of (Bio)Molecular Systems'
-------------------------------------------------
+Classical Simulation of (Bio)Molecular Systems
+----------------------------------------------
 
 Exercises for the course
 
